@@ -1,0 +1,11 @@
+order_id,customer,product,quantity,price
+1,Anita,Keyboard,2,500
+2,Ravi,Mouse,1,200
+3,Karan,Laptop,1,55000
+4,Sneha,Monitor,1,12000
+5,Anita,Mouse,3,200
+6,Ravi,Keyboard,1,500
+7,Karan,Mouse,2,200
+8,Sneha,Laptop,1,55000
+9,Anita,Monitor,1,12000
+10,Karan,Keyboard,1,500
